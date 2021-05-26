@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_planet/model/Planet.dart';
 import 'package:flutter_planet/style.dart';
 
+import 'DetailPage.dart';
+
 class PlanetSummary extends StatelessWidget {
   final Planet planet;
   final bool horizontal;

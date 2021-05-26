@@ -23,7 +23,7 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       body: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.start,
         children: [HomePageBody()],
       ),
     );
